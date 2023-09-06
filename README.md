@@ -8,15 +8,13 @@ Before using the Trojan script, ensure you have the following prerequisites:
 
 Execution:
 
-1-Clone or download the project repository to your testing system.
+Clone or download the project repository to your testing system.
 
-2-Navigate to the project directory in your terminal:
+Navigate to the project directory in your terminal.
 
-cd ethical-hacking-trojan-project
+Run the Trojan script using Python 3:
 
-3-Run the Trojan script using Python 3:
-
-python3 trojan.py
+python3 Trojancaz.py
 
 Observe the behavior of the script. It will simulate the creation of a ".malware.py" file with a payload, but it does not execute any harmful actions.
 

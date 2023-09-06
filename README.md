@@ -1,4 +1,5 @@
 Prerequisites:
+
 Before using the Trojan script, ensure you have the following prerequisites:
 
 + A Linux-based system for testing purposes.
@@ -6,6 +7,7 @@ Before using the Trojan script, ensure you have the following prerequisites:
 + Basic knowledge of ethical hacking and cybersecurity concepts.
 
 Execution:
+
 1-Clone or download the project repository to your testing system.
 
 2-Navigate to the project directory in your terminal:
